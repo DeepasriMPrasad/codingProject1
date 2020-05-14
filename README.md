@@ -1,2 +1,3 @@
 # codingProject1
-coding
+Basic Python learning - with slides in html
+
